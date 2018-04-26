@@ -31,7 +31,7 @@ dependencies {
 
 ## Configuration
 
-This step is optional, but if you want you can configure some Toasty parameters. Place this anywhere in your app:
+For this Configuration you can use to your Base/Super Class or onCreate to a activity
 
 ```java
 PToast.edit()
