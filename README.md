@@ -47,11 +47,6 @@ PToast.edit()
 
 PToast just simply use static class : 
 
-To display an error Toast:
-
-``` java
-Toasty.error(yourContext, "This is an error toast.", Toast.LENGTH_SHORT, true).show();
-```
 Displaying a simple PToast:
 
 ``` java
@@ -87,3 +82,4 @@ Displaying a html PToast:
 ``` java
 PToast.successAsHTML(this,"<strong>Strong</strong> <u>Underline</u> => html Tag Toast");
 ```
+## Credit by Hor Chanpheng
