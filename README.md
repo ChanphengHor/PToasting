@@ -1,15 +1,7 @@
 # Toasty
 
 <div align="center">
-	<img src="https://github.com/ChanphengHor/PToasting/blob/master/toast_screen/screen1.png">
-	<img src="https://github.com/ChanphengHor/PToasting/blob/master/toast_screen/screen2.png">
-	<img src="https://github.com/ChanphengHor/PToasting/blob/master/toast_screen/screen3.png">
-	<img src="https://github.com/ChanphengHor/PToasting/blob/master/toast_screen/screen4.png">
-</div>
-<div align="center">
-	<img src="https://github.com/ChanphengHor/PToasting/blob/master/toast_screen/screen5.png">
-	<img src="https://github.com/ChanphengHor/PToasting/blob/master/toast_screen/screen6.png">
-	<img src="https://github.com/ChanphengHor/PToasting/blob/master/toast_screen/screen7.png">
+	<img src="https://github.com/ChanphengHor/PToasting/blob/master/toast_screen/screen_all.jpg">
 </div>
 The usual Toast, but with steroids.
 
