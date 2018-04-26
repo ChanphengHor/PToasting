@@ -2,6 +2,7 @@
 
 <div align="center">
 	<img src="https://github.com/ChanphengHor/PToasting/blob/master/toast_screen/screen_all.jpg">
+	<a href="https://github.com/ChanphengHor/PToasting/tree/master/toast_screen"> See All Screenshort </a>
 </div>
 The usual Toast, but with steroids.
 
